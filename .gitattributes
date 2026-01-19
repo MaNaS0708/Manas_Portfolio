@@ -1,0 +1,8 @@
+android/** linguist-generated
+ios/** linguist-generated
+windows/** linguist-generated
+linux/** linguist-generated
+macos/** linguist-generated
+web/** linguist-generated
+
+*.dart linguist-language=Dart
